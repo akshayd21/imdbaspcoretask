@@ -1,0 +1,32 @@
+.App {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.input-group {
+  width: 40%;
+}
+#moviecontainer {
+  margin-left: 2% !important;
+}
+
+#modalrow {
+  margin-left: 4% !important;
+}
+#modalinput {
+  width: 50% !important;
+}
+#modaltextarea {
+  width: 80% !important;
+}
+
+.modal-90w {
+  max-width: 60% !important;
+}
+#alert {
+  width: 40% !important;
+}
+#mform{
+  margin-left: 2% !important;
+  padding:30px;
+}
